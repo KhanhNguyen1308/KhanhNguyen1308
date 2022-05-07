@@ -19,5 +19,5 @@ My name is Nguyen Duy Khanh. I a omputer Engineering
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="LanguageC" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="TF" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/KhanhNguyen1308/KhanhNguyenDuy/blob/main/Pycharm.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MathLab" alt="MathLab" width="40" height="40"/>&nbsp;
