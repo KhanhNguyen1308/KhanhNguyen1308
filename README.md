@@ -17,7 +17,7 @@ My name is Nguyen Duy Khanh. I'm a Computer Engineer
 <table>
   <tr>
     <td width = "48%">
-        <img src="https://github-readme-stats.vercel.app/api?username=KhanhNguyen1308)](https://github.com/KhanhNguyen1308/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=KhanhNguyen1308&show_icons=true&hide=contribs,issues&hide_border=true">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNguyen1308&layout=compact&theme=vision-friendly-dark">
     </td>
     <td width = "52%">
