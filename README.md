@@ -10,9 +10,10 @@
 
 ---
 ### 👨‍💻 About Me :
-My name is Nguyen Duy Khanh. I a omputer Engineering
+My name is Nguyen Duy Khanh. I a Computer Engineer
 
 ### ⚡ My Stats :
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=KhanhNguyen1308)](https://github.com/KhanhNguyen1308/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNguyen1308&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
