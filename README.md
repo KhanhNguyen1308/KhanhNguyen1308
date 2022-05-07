@@ -14,10 +14,17 @@ My name is Nguyen Duy Khanh. I'm a Computer Engineer
 
 
 ### ⚡ My Stats :
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=KhanhNguyen1308)](https://github.com/KhanhNguyen1308/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNguyen1308&layout=compact&theme=vision-friendly-dark)](https://github.com/KhanhNguyen1308/github-readme-stats)
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-
+<table>
+  <tr>
+    <td width = "48%">
+      [![My Github Stats](https://github-readme-stats.vercel.app/api?username=KhanhNguyen1308)](https://github.com/KhanhNguyen1308/github-readme-stats)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNguyen1308&layout=compact&theme=vision-friendly-dark)](https://github.com/KhanhNguyen1308/github-readme-stats)
+    </td>
+    <td width = "52%">
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    </td>  
+  </tr>
+<table>
 ### Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="LanguageC" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
