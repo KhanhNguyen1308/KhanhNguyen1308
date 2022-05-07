@@ -11,5 +11,9 @@
 ---
 ### 👨‍💻 About Me :
 My name is Nguyen Duy Khanh. I a omputer Engineering
-### ⚡ GitHub Stats :
+
+### ⚡ My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNguyen1308&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages and Tools:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="Pi" width="40" height="40"/>&nbsp;
