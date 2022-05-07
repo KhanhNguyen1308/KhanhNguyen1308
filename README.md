@@ -24,8 +24,10 @@ My name is Nguyen Duy Khanh. I'm a Computer Engineer
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     </td>  
   </tr>
-<table>
+</table>
+  
 ### Languages and Tools:
+  
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="LanguageC" width="26" height="26"/>
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="26" height="26"/>
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="MathLab" width="26" height="26"/>
