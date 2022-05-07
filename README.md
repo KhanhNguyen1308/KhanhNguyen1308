@@ -28,6 +28,7 @@ My name is Nguyen Duy Khanh. I'm a Computer Engineer
 ### Languages and Tools:
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="LanguageC" width="26" height="26"/>
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="26" height="26"/>
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="MathLab" width="26" height="26"/>
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="26" height="26"/>
   <img align="left" src="https://github.com/KhanhNguyen1308/KhanhNguyenDuy/blob/main/Pycharm.png" alt="PyCharm" width="26" height="26"/>
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MathLab" width="26" height="26"/>
