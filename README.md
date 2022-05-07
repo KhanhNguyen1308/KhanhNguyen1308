@@ -10,11 +10,13 @@
 
 ---
 ### 👨‍💻 About Me :
-My name is Nguyen Duy Khanh. I a Computer Engineer
+My name is Nguyen Duy Khanh. I'm a Computer Engineer
+
 
 ### ⚡ My Stats :
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=KhanhNguyen1308)](https://github.com/KhanhNguyen1308/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNguyen1308&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNguyen1308&layout=compact&theme=vision-friendly-dark)](https://github.com/KhanhNguyen1308/github-readme-stats)
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 ### Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="LanguageC" alt="C" width="40" height="40"/>&nbsp;
