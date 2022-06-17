@@ -11,7 +11,7 @@
 ---
 ### 👨‍💻 About Me :
 My name is Nguyen Duy Khanh. I'm a Computer Engineer
- - :microscope: I'm passionate about Machine Learning, Game Developer and History
+ - :microscope: I'm passionate about Machine Learning, Game Development and History
 
 
 
